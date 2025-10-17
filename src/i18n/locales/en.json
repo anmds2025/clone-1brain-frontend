@@ -1,0 +1,36 @@
+{
+  "app": {
+    "title": "Data Platform",
+    "connectors": "Connectors",
+    "workflows": "Workflows",
+    "jobs": "Jobs"
+  },
+  "connectors": {
+    "title": "Connectors",
+    "name": "Name",
+    "type": "Type",
+    "status": "Status",
+    "create": "Create Connector",
+    "connected": "Connected",
+    "pending": "Pending"
+  },
+  "workflows": {
+    "title": "Workflows",
+    "name": "Name",
+    "lastRun": "Last Run",
+    "create": "Create Workflow",
+    "reset": "Reset"
+  },
+  "jobs": {
+    "title": "Jobs",
+    "id": "ID",
+    "workflow": "Workflow",
+    "status": "Status",
+    "createdAt": "Created At",
+    "retry": "Retry",
+    "queued": "Queued",
+    "running": "Running",
+    "succeeded": "Succeeded",
+    "failed": "Failed"
+  }
+}

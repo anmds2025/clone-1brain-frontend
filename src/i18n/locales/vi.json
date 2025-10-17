@@ -1,0 +1,36 @@
+{
+  "app": {
+    "title": "Nền Tảng Dữ Liệu",
+    "connectors": "Kết Nối",
+    "workflows": "Quy Trình",
+    "jobs": "Công Việc"
+  },
+  "connectors": {
+    "title": "Kết Nối",
+    "name": "Tên",
+    "type": "Loại",
+    "status": "Trạng Thái",
+    "create": "Tạo Kết Nối",
+    "connected": "Đã Kết Nối",
+    "pending": "Đang Chờ"
+  },
+  "workflows": {
+    "title": "Quy Trình",
+    "name": "Tên",
+    "lastRun": "Chạy Lần Cuối",
+    "create": "Tạo Quy Trình",
+    "reset": "Đặt Lại"
+  },
+  "jobs": {
+    "title": "Công Việc",
+    "id": "ID",
+    "workflow": "Quy Trình",
+    "status": "Trạng Thái",
+    "createdAt": "Ngày Tạo",
+    "retry": "Thử Lại",
+    "queued": "Đang Chờ",
+    "running": "Đang Chạy",
+    "succeeded": "Thành Công",
+    "failed": "Thất Bại"
+  }
+}
